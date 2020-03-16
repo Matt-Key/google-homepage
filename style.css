@@ -1,0 +1,18 @@
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.search {
+    text-align: center;
+}
+.searchbar {
+    text-align: center;
+    width: 500px;
+    box-shadow: 0 0 10px #cfcfcf;
+    height: 40px;
+    margin-top: 25px; 
+    border-radius: 50px;
+    border: #cfcfcf;
+}
