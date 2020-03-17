@@ -2,6 +2,7 @@ img {
     display: block;
     margin-right: auto;
     margin-left: auto;
+    margin-top: 110px;
 }
 
 .search {
@@ -21,4 +22,18 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    color: #575757;
+    font-size: 11px;
+    text-decoration: none;
 }
